@@ -1,0 +1,8 @@
+# MySQL access config
+export DB_HOST="192.168.0.185"
+export DB_USERNAME="root"
+export DB_PASSWORD="YourPassword"
+export DB_NAME="YourDatabaseName"
+export DB_PORT="3306"
+# Built-in PHP development web server on your local machine
+php -S localhost:8000 -t public
