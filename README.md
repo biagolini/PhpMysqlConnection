@@ -66,6 +66,6 @@ bash run.sh
 
 Feel free to submit issues, create pull requests, or fork the repository to help improve the project.
 
-## License
+## License and Disclaimer
 
-This project is open-source and available under the MIT License. See the `LICENSE` file for more information.
+This project is open-source and available under the MIT License. You are free to copy, modify, and use the project as you wish. However, any responsibility for the use of the code is solely yours. Please use it at your own risk and discretion.
